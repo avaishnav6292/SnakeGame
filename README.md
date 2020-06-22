@@ -36,8 +36,4 @@ This project gives an overview of the principles that have been learned througho
 
 ## Output
 
-``
-Game has terminated successfully!
-Score: xx
-Size: xx
-``
+<img src="output.png"/>
